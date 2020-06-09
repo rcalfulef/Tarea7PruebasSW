@@ -20,8 +20,10 @@ def detectarTexto(ruta, precision):
 
     for text in textDetections:
         if text['Confidence'] > precision:
-            if text['Type'] == 'LINE':
+            if text['Type'] == 'WORD':
                 texto+=text['DetectedText'].lower() + ' '
+        # else:
+        #     return f'Una palabra tiene precision menor a {precision}%'
 
     return texto.strip()
 
@@ -66,7 +68,7 @@ Resultado: {}
 
 ## Este es el supuesto mas importante, el texto de la imagen de prueba debe estar en el mismo orden que en el de control, de lo contrario sera falso
 def compararTextos(textoControl, textoPrueba):  
-    return textoPrueba in textoControl
+    return textoControl in textoPrueba
 
 def menu(nombreImagenControl, precisionMinima):
     printMenu(nombreImagenControl, precisionMinima)
@@ -129,7 +131,7 @@ def menu(nombreImagenControl, precisionMinima):
             print('El valor ingresado no es valido')
 
 def main():
-    control = 'test.png'
+    control = 'Control.png'
     precision = 97.0
 
     menu(control, precision)
