@@ -1,128 +1,138 @@
-Fecha: 2020-06-09 00:06:27.165213        
+Fecha: 2020-06-09 14:04:18.889438        
 ImagenControl: Control.png
 textoControl: it's monday but keep smiling
-ImagenPrueba: Control.png
-textoPrueba: it's monday but keep smiling
-
-Resultado: True
-
-------------------------------------------------
-
-Fecha: 2020-06-09 00:06:31.985535        
-ImagenControl: Control.png
-textoControl: it's monday but keep smiling
-ImagenPrueba: t02.jpg
-textoPrueba: it's monday but keep smiling keep
-
-Resultado: True
-
-------------------------------------------------
-
-Fecha: 2020-06-09 00:06:35.860252        
-ImagenControl: Control.png
-textoControl: it's monday but keep smiling
-ImagenPrueba: t03.jpg
-textoPrueba: it's but keep smiling
+ImagenPrueba: 90grados.jpg
+textoPrueba: it's but keep monday smiling.
 
 Resultado: False
 
 ------------------------------------------------
 
-Fecha: 2020-06-09 00:06:41.179759        
+Fecha: 2020-06-09 14:04:22.026950        
 ImagenControl: Control.png
 textoControl: it's monday but keep smiling
-ImagenPrueba: t04.jpg
-textoPrueba: it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling
-
-Resultado: True
-
-------------------------------------------------
-
-Fecha: 2020-06-09 00:06:46.872613        
-ImagenControl: Control.png
-textoControl: it's monday but keep smiling
-ImagenPrueba: t05.jpg
-textoPrueba: it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling it's monday but keep smiling monday but keep smiling it's monday but keep smiling it's monday but keep smiling
-
-Resultado: True
-
-------------------------------------------------
-
-Fecha: 2020-06-09 00:06:50.465627        
-ImagenControl: Control.png
-textoControl: it's monday but keep smiling
-ImagenPrueba: t06.jpg
-textoPrueba: smiling monday but it's keep
+ImagenPrueba: 95confianza.jpg
+textoPrueba: 123rf 123rf monday smiling keep but 123rf
 
 Resultado: False
 
 ------------------------------------------------
 
-Fecha: 2020-06-09 00:06:54.309257        
+Fecha: 2020-06-09 14:04:24.000650        
 ImagenControl: Control.png
 textoControl: it's monday but keep smiling
-ImagenPrueba: t07.jpg
-textoPrueba: 
+ImagenPrueba: 180grados.jpg
+textoPrueba: aonow
 
 Resultado: False
 
 ------------------------------------------------
 
-Fecha: 2020-06-09 00:06:54.978742        
+Fecha: 2020-06-09 14:04:28.558359        
 ImagenControl: Control.png
 textoControl: it's monday but keep smiling
-ImagenPrueba: t08.jpg
-textoPrueba: 
+ImagenPrueba: car_especiales.jpg
+textoPrueba: it's monday but @ keep smiling.
 
 Resultado: False
 
 ------------------------------------------------
 
-Fecha: 2020-06-09 00:06:56.343983        
+Fecha: 2020-06-09 14:04:29.806476        
 ImagenControl: Control.png
 textoControl: it's monday but keep smiling
-ImagenPrueba: t09.jpg
-textoPrueba: it's monday keep smiling
-
-Resultado: False
-
-------------------------------------------------
-
-Fecha: 2020-06-09 00:06:57.517144        
-ImagenControl: Control.png
-textoControl: it's monday but keep smiling
-ImagenPrueba: t10.jpg
+ImagenPrueba: desorden.jpg
 textoPrueba: but keep smiling it's monday
 
 Resultado: False
 
 ------------------------------------------------
 
-Fecha: 2020-06-09 00:06:58.577998        
+Fecha: 2020-06-09 14:04:31.291062        
 ImagenControl: Control.png
 textoControl: it's monday but keep smiling
-ImagenPrueba: t11.jpg
-textoPrueba: monday
+ImagenPrueba: frase_distinta.jpg
+textoPrueba: you'll walk alone
 
 Resultado: False
 
 ------------------------------------------------
 
-Fecha: 2020-06-09 00:07:01.954308        
+Fecha: 2020-06-09 14:04:38.288654        
 ImagenControl: Control.png
 textoControl: it's monday but keep smiling
-ImagenPrueba: t12.jpg
+ImagenPrueba: limite49.png
+textoPrueba: testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing esting testing testing testing esting testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing it's monday but keep smiling
+
+Resultado: True
+
+------------------------------------------------
+
+Fecha: 2020-06-09 14:04:46.482340        
+ImagenControl: Control.png
+textoControl: it's monday but keep smiling
+ImagenPrueba: limite50.png
+textoPrueba: testing testing testing testing testing sting testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing it's monday but keep smiling
+
+Resultado: True
+
+------------------------------------------------
+
+Fecha: 2020-06-09 14:04:54.813798        
+ImagenControl: Control.png
+textoControl: it's monday but keep smiling
+ImagenPrueba: limite51.png
+textoPrueba: testing testing testing sting testing esting testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing it's monday but keep
+
+Resultado: False
+
+------------------------------------------------
+
+Fecha: 2020-06-09 14:05:10.637413        
+ImagenControl: Control.png
+textoControl: it's monday but keep smiling
+ImagenPrueba: control.png
 textoPrueba: it's monday but keep smiling
 
 Resultado: True
 
 ------------------------------------------------
 
-Fecha: 2020-06-09 00:07:05.874244        
+Fecha: 2020-06-09 14:05:16.619650        
 ImagenControl: Control.png
 textoControl: it's monday but keep smiling
-ImagenPrueba: t13.jpg
+ImagenPrueba: una_palabra.jpg
+textoPrueba: monday
+
+Resultado: False
+
+------------------------------------------------
+
+Fecha: 2020-06-09 14:05:25.637554        
+ImagenControl: Control.png
+textoControl: it's monday but keep smiling
+ImagenPrueba: numeros.jpg
 textoPrueba: it's monday but keep 1 smiling
+
+Resultado: False
+
+------------------------------------------------
+
+Fecha: 2020-06-09 14:05:29.917150        
+ImagenControl: Control.png
+textoControl: it's monday but keep smiling
+ImagenPrueba: palabra_extra.jpg
+textoPrueba: it's monday but keep smiling keep
+
+Resultado: True
+
+------------------------------------------------
+
+Fecha: 2020-06-09 14:05:35.491719        
+ImagenControl: Control.png
+textoControl: it's monday but keep smiling
+ImagenPrueba: palabra_menos.jpg
+textoPrueba: it's but keep smiling
 
 Resultado: False
 
